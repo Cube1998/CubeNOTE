@@ -1,6 +1,6 @@
-#Linux Commande
+# Linux Commande
 
-## ** 磁盘管理 **  
+##  磁盘管理 
 
 ### mkdir
 Linux mkdir命令用于建立名称为 dirName 之子目录。
@@ -30,7 +30,7 @@ Linux cp命令主要用于复制文件或目录。
 或
 `cp [options] source... directory`
 
-#####参数说明：
+##### 参数说明：
 
 -a：此选项通常在复制目录时使用，它保留链接、文件属性，并复制目录下的所有内容。其作用等于dpR参数组合。
 -d：复制时保留链接。这里所说的链接相当于Windows系统中的快捷方式。
